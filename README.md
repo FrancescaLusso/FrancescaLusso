@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesca</h1>
-<h3 align="center">An aspirant back-end developer from Italy</h3>
+<h3 align="center">An aspirant full stack developer from Italy</h3>
 
 <p>I'm studying at The Net Value Academy to become a junior full stack developer. Also, I'm a novice cybersecurity self-taught. Actually, I only know C programming language. In the next few months, I'll learn how to program with Java, JavaScript, PHP, Python and C# and how to use various framework like Laravel, Bootstrap, Angular, etc...<p>
 
